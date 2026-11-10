@@ -5,7 +5,8 @@ To perform and verify circular convolution operation of two given sequences usin
 PC installed with SCILAB
 ## PROGRAM:
 ## CIRCULAR CONVOLUTION
-<br>
+
+```
 //CIRCULAR CONVOLUTION 
 clc;
 clear; 
@@ -59,7 +60,7 @@ ylabel('amplitude');
 
 title('circular convolution');
 
-
+```
 <br>
 
 <br>
